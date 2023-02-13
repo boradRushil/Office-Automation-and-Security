@@ -22,10 +22,10 @@ float sensorValue;
 DHT dht(DHTPIN, DHTTYPE);
 
 
-#define FIREBASE_HOST "hello-8d87e-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "ItgR9xSmTmUbR28BKmrzKKBnM5qew9X1jlHDB59Y"
-#define WIFI_SSID "Rushil"
-#define WIFI_PASSWORD "Rushil@1234"
+#define FIREBASE_HOST " host id"
+#define FIREBASE_AUTH " pass "
+#define WIFI_SSID "admin"
+#define WIFI_PASSWORD "admin@1234"
 FirebaseData firebaseData;
 
 
