@@ -1,6 +1,17 @@
 # Office-Automation-and-Security
 A IOT based automation system for enhanced security and effective management of corporate spaces.
 
+## Tech Stack:
+- MicroController - Arduino (C language).
+- Database - Firebase.
+- Frontend - React
+## Major features:
+> - __Fire detection__ using Flame and Smoke Sensors.
+> - __Motion detection__ using PIR sensor.
+> - __Automatic light detection__ and Control using Light Sensor(LDR based).
+> - RFID based __Secure Door Access.__
+
+
 ## Block Diagram: 
 ![Block Diagram](https://user-images.githubusercontent.com/73428876/218533654-8dce3795-a374-469b-b662-62b91cd1a900.PNG)
 
@@ -22,3 +33,4 @@ A IOT based automation system for enhanced security and effective management of 
 ![pic3](https://user-images.githubusercontent.com/73428876/218539113-e3df0b48-c612-4c0d-85b1-11441ff66384.jpg)
 
 
+ 
