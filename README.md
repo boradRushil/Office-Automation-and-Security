@@ -15,10 +15,15 @@ A IOT based automation system for enhanced security and effective management of 
 ## Block Diagram: 
 ![Block Diagram](https://user-images.githubusercontent.com/73428876/218533654-8dce3795-a374-469b-b662-62b91cd1a900.PNG)
 
+## Flowchart:
+![Flowchart](https://user-images.githubusercontent.com/73428876/220004498-281e9afa-b7d3-4795-a78d-57296b8279bf.png)
+
+
 ## Project Timeline:
 ![Project Timeline](https://user-images.githubusercontent.com/73428876/218537704-f812fd53-c5f2-4290-8322-30ac268897c5.jpg)
 
-## Circuit Photos:
+
+<!-- ## Circuit Photos:
 ### Circuit 1:
 ![Circuit 1](https://user-images.githubusercontent.com/73428876/218539033-26f1c113-c7c0-4c9a-9b6c-e63096333eb8.jpg)
 
@@ -31,6 +36,6 @@ A IOT based automation system for enhanced security and effective management of 
 ![pic2](https://user-images.githubusercontent.com/73428876/218539105-e6eb77a6-16df-471e-90f0-4ac8cbd66d44.jpg)
 
 ![pic3](https://user-images.githubusercontent.com/73428876/218539113-e3df0b48-c612-4c0d-85b1-11441ff66384.jpg)
-
+ -->
 
  
